@@ -1,0 +1,849 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>Administrator</o:Author><o:LastAuthor>吾甚之纯</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>8</o:Pages><o:Characters>12176</o:Characters><o:Lines>101</o:Lines><o:Paragraphs>28</o:Paragraphs><o:Company>china</o:Company></o:DocumentProperties><o:CustomDocumentProperties><o:album dt:dt="string" >rbm.xkw.com</o:album><o:author dt:dt="string" >rbm.xkw.com</o:author><o:company dt:dt="string" >学科网</o:company><o:copyright dt:dt="string" >学科网版权所有</o:copyright><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.11194</o:KSOProductBuildVer><o:ICV dt:dt="string" >879F4C855AB741B6930C8C96E41AD911</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Web</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  QFormat="true"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="35"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="10"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="1"  SemiHidden="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="11"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="22"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="20"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="59"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="1"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Calibri";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"华文楷体";
+}
+
+@font-face{
+font-family:"Courier New";
+}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-parent:"";
+margin-bottom:10.0000pt;
+mso-pagination:none;
+text-align:justify;
+text-justify:inter-ideograph;
+line-height:114%;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;
+mso-font-kerning:1.0000pt;
+}
+
+span.10{
+font-family:Calibri;
+}
+
+span.15{
+font-family:Calibri;
+font-size:9.0000pt;
+}
+
+span.16{
+font-family:Calibri;
+font-size:9.0000pt;
+}
+
+p.MsoFooter{
+mso-style-name:页脚;
+mso-style-noshow:yes;
+margin-bottom:10.0000pt;
+layout-grid-mode:char;
+mso-pagination:none;
+text-align:left;
+line-height:114%;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+p.MsoHeader{
+mso-style-name:页眉;
+mso-style-noshow:yes;
+margin-bottom:10.0000pt;
+border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.7500pt solid windowtext;
+padding:0pt 0pt 1pt 0pt ;
+layout-grid-mode:char;
+mso-pagination:none;
+text-align:center;
+line-height:114%;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+p.19{
+mso-style-name:"No Spacing";
+margin-bottom:10.0000pt;
+mso-pagination:none;
+text-align:justify;
+text-justify:inter-ideograph;
+line-height:114%;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;
+mso-font-kerning:1.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+margin-top:72.0000pt;
+margin-bottom:72.0000pt;
+margin-left:90.0000pt;
+margin-right:90.0000pt;
+size:595.3000pt 841.9000pt;
+layout-grid:15.6000pt;
+mso-header-margin:42.5500pt;
+mso-footer-margin:49.6000pt;
+mso-footer:url("福建省2022年普通高中学业水平合格性考试政治复习问答题整理.files/header.html") f0;
+}
+div.Section0{page:Section0;}@page Section1{
+size:595.3000pt 841.9000pt;
+mso-header-margin:35.4000pt;
+mso-footer-margin:35.4000pt;
+mso-footer:url("福建省2022年普通高中学业水平合格性考试政治复习问答题整理.files/header.html") f0;
+}
+div.Section1{page:Section1;}</style></head><body style="tab-interval:21pt;text-justify-trim:punctuation;" ><!--StartFragment--><div class="Section0"  style="layout-grid:15.6000pt;" ><p class=MsoNormal  align=center  style="text-autospace:ideograph-numeric;mso-pagination:none;text-align:center;" ><span style="position:absolute;z-index:1;left:0px;
+margin-left:1794.0000px;margin-top:1970.0000px;width:45.0000px;
+height:44.0000px;" ><img width="45"  height="44"  src="福建省2022年普通高中学业水平合格性考试政治复习问答题整理.files/福建省2022年普通高中学业水平合格性考试政治复习问答题整理0.png" ></span><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >2022年1月</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >福建</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >政治合格性考试易考主观题</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(整理)</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >1、请你运用资本主义基本矛盾的有关知识分析“它的瓦解不需依赖外力，而是被自身的问题压垮”。（为什么资本主义终究被社会主义代替？）</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①资本主义基本矛盾是生产力与生产关系之间的矛盾在资本主义社会的现，是资本主义社会一切矛盾和冲突的总根源。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②资本主义基本矛盾的发展，贯穿于资本主义社会的始终，决定着资本主义的命运。生产社会化的程度越高，资本生产资料、劳动产品就越集中在少数资本家的手里，资本主义社会基本矛盾的尖锐化就越不可避免。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③因此，资本主义的瓦解不需依赖外力，而是被自身的问题压垮。资本主义终究要被社会主义取代，虽然这是一个漫长的过程，但这是历史发展的基本趋势。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >2、新中国成立的历史意义？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①中华人民共和国的成立，实现了中国从几千年封建专制政治向人民民主的伟大飞跃，彻底结束了旧中国半殖民地半封建社会的历史，使中华民族以崭新的姿态自立于世界民族之林。 ②中华人民共和国的成立，为实现由新民主主义向社会主义的过渡创造了前提条件，从根本上改变了中国社会的发展方向，为实现国家富强、民族复兴展示了美好前景和现实道路。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③它冲破了帝国主义的东方战线，极大地改变了世界政治力量的对比，鼓舞和推动了世界被压迫民族和被压迫人民争取解放的斗争。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >3、社会主义制度确立的意义？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①创造性的开辟了一条适合中国特点的社会主义改造道路，顺利实现了对生产资料私有制的社会主义改造，在中国建立起社会主义制度。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②极大的激发了广大人民群众建设社会主义的积极性，社会生产力迅速发展，社会秩序更加稳定，人民民主更加巩固，为全面建设社会主义奠定了坚实基础。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③完成了中华民族有史以来最深刻最伟大的社会变革。为当代中国一切发展进步奠定了根本政治前提和制度基础。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >4、为什么只有社会主义才能救中国？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①我国社会发生的翻天覆地的变化雄辩的证明：只有社会主义才能救中国。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②新民主主义革命的胜利、中华人民共和国的诞生、社会主义基本制度的确立和社会主义建设的全面展开，实现了中华民族从“东亚病夫”到站起来的伟大飞跃。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③党在社会主义革命和建设中取得的独创性理论成果和巨大成就，为在新的历史时期开创中国特色社会主义提供了宝贵经验、理论准备和物质基础。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >5、改革开放的意义？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①改革开放极大地改变了中国的面貌、中华民族的面貌、中国人民的面貌、中国共产党的面貌。中华民族迎来了从站起来、富起来到强起来的伟大飞跃,中国特色社会主义迎来了从创立、发展到完善的伟大飞跃,中国人民迎来从温饱不足到小康富裕的伟大飞跃。中华民族正以崭新姿态屹立于世界东方。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②实践证明,改革开放是党和人民大踏步赶上时代的重要法宝,是坚持和发展中国特色社会主义的必由之路,是决定当代中国命运的关键一招,也是决定实现“两个一百年”奋斗目标、实现中华民族伟大复兴的关键一招。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③实践永无止境，解放思想永无止境，改革开放也永无止境。对外开放是中国的基本国策。开放带来进步，封闭必然落后。改革开放只有进行时,没有完成时。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >6、改革开放以来中国取得一切成绩进步的根本原因?（或中国特色社会主义的内容有哪些）以及它们之间的内在联系:</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①原因:中国共产党带领全国人民,开辟了中国特色社会主义道路,形成了中国特色社会主义理论体系,确立了中国特色社会主义制度,发展了中国特色社会主义文化。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②联系:中国特色社会主义道路、理论、制度、文化相互联系、相互作用,统一于中国特色社会主义伟大实践。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >7、新时代的意义？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①意味着近代以来久经磨难的中华民族迎来了从站起来、富起来到强起来的伟大飞跃，迎来了实现中华民族伟大复兴的光明前景。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②科学社会主义在21世纪的中国焕发出强大生机活力，在世界上高高举起了中国特色社会主义伟大旗帜。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③意味着中国特色社会主义道路、理论、制度、文化不断发展，拓展了发展中国家走向现代化的途径，给世界上那些即希望加快发展又希望保持自身独立性的国家和民族提供了全新选择，为解决人类问题提供了中国智慧和中国方案。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >8、新时代如何一以贯之坚持和发展中国特色社会主义？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①需要一代又一代中国共产党人带领人民接续奋斗，在实践中不断丰富中国特色社会主义的实践特色、理论特色、民族特色、时代特色，在新的历史条件下把党和国家的各项事业继续推向前进。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②新时代属于每一个人，每一个人都是新时代的见证者、开创者、建设者。要不忘初心，牢记使命，一以贯之坚持和发展中国特色社会主义，一以贯之推进党的建设的伟大工程，一以贯之增强忧患意识，防范风险挑战，继续奋斗书写新的历史篇章。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >9、运用中国特色社会主义的知识，分析如何实现中华民族伟大复兴的中国梦。</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①要实现中华民族复兴的伟大梦想，须进行伟大斗争，必须深入推进党的建设新的伟大工程，必须推进中国特色社会主义伟大事业。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②坚持习近平新时代中国特色社会主义思想指导地位不动摇，以科学理论武装头脑。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③坚持中国特色社会主义道路、中国特色社会主义理论体系、中国特色社会主义制度、中国特色社会主义文化，坚定道路自信、理论自信、制度自信文化自信。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;青年兴则国家兴，青年强则国家强。广大青年要坚定理想信念，志存高远，脚踏实地，勇做时代的弄潮儿，在实现中国梦的生动实践中放飞青春梦想，在为人民利益的不懈奋斗中书写人生华章。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >10、新时代中国共产党的历史使命?如何实现中华民族伟大复兴的历史使命?</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >中国共产党人的初心和使命</font>:为中国人民某幸福,为中华民族谋复兴。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①实现伟大梦想,必须进行伟大斗争。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②实现伟大梦想,必须推进党的建设新的伟大工程。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③实现伟大梦想,必须推进中国特色社会主义伟大事业。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;伟大斗争，伟大工程，伟大事业，伟大梦想，紧密联系、相互贯通，相互作用，其中起决定性作用的是党的建设的新的伟大工程。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >11、中国特色社会主义新时代,我们青年人如何有所作为?</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-indent:15.7500pt;mso-char-indent-count:1.5000;text-autospace:ideograph-numeric;
+mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >青年兴则国兴，青年强则国强。广大青年要坚定理想信念，志存高远，脚踏实地，勇做时代的弄潮儿，在中国梦的生动实践中放飞青春梦想，为人民利益的不懈奋斗书写人生的华章！</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >12、习近平新时代中国特色社会主义思想的地位（或为什么要坚持习近平新时代中国特色社会主义思想的地位）：</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①习近平新时代中国特色社会主义思想是马克思主义中国化的最新理论成果，是党和人民实践经验和集体智慧的结晶，是中国特色社会主义理论体系的重要组成部分。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②是回答时代之问的科学理论。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③是具有开创性意义的新理念新思想新战略，为发展马克思主义做出了原创性的贡献。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;是党和国家必须长期坚持的指导思想和行动指南。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9316;坚持和发展习近平新时代中国特色社会主义思想，就是真正坚持和发展马克思主义，就是真正坚持和发展科学社会主义</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >13、坚持和完善基本经济制度对推动经济高质量发展的重要意义？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①坚持公有制为主体、多种所有制经济共同发展，推动各种所有制资本取长补短、相互促进、共同发展，调动不同经济主体的积极性和创造性，激发社会主义市场经济的活力，推动经济持续健康发展。 </font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②坚持按劳分配为主体，多种分配方式并存，能将效率与公平有机统一起来，极大地调动各方面积极性，推动资源优化配置，促进经济发展。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③坚持社会主义市场经济体制，充分发挥市场在资源配置中的决定性作用，更好发挥政府作用，激发各类市场主体活力，为经济高质量发展提供体制保障。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;三者间相互联系、相互支撑、相互促进，有利于解放和发展社会生产力、改善人民生活，有利于维护社会公平正义、实现共同富裕。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >14、如何发展壮大国有经济或如何推动国有企业更好发展？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①要以解放和发展社会生产力为标准，以提高国有资本效率、增强国有企业活力为中心，全面推进依法治企，加强和改进党对国有企业的领导，做强做优做大国有企业，不断增强国有经济竞争力、创新力、控制力、影响力、抗风险能力。 &nbsp;&nbsp;②要推进国有经济布局优化和结构调整。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③要探索公有制多种实现形式，积极稳妥推进国有企业混合所有制改革，完善公司治理结构，建立现代企业制度，规范有序发展混合所有制经济。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >15、如何毫不动摇的鼓励、支持、引导非公有制经济发展？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>1）①培育更多充满活力的市场主体，营造支持非公有制经济高质量发展的制度环境；②营造各种所有制主体依法平等使用资源要素、公开公平公正参与竞争、同等受到法律保护的市场环境；③健全支持非公有制经济发展的法治环境，贯彻落实包括市场准入、企业融资等在内的促进非公有制经济健康发展的各项政策措施。形成促进非公有制经济发展的良好环境和社会氛围。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>2）支持和帮助非公有制企业提高企业管理水平，完善管理体制机制，提高生产技术水平和研发能力，从而不断提高企业的效率和市场竞争力。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>3）推动非公有制经济人士做合格的中国特色社会主义事业建设者，弘扬企业家精神，坚持爱国敬业、守法经营、诚信经营，积极承担社会责任。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >16、企业经营成功的因素？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①企业要制定正确的经营战略。 &nbsp;&nbsp;②企业要提高自主创新能力,依靠科技进步、科学管理等手段,形成自己的竟争优势。 &nbsp;&nbsp;&nbsp;③企业要诚信经营,树立良好的信誉和企业形象。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >17、坚持两个“毫不动摇”的原因？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①我国在社会主义初级阶段坚持公有制为主体、多种业所有制经济共同发展。这是中国特色社会主义制度的重要支柱，体现了中国特色社会主义制度的优越性。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②以公有制为主体是社会主义初级阶段经济制度的根本特征，是促进生产力发展的根本要求，是实现共同富裕的根本前提。国有经济控制国民经济命脉,对经济发展起主导作用。国有企业是国有经济最主要的实现形式,是中国特色社会主义的重要物质基础和政治基础。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③非公有制经济是社会主义市场经济的重要组成部分,是稳定经济增长和改善民生的重要力量、创业就业的主要领域、技术创新的重要主体、国家税收的重要来源,为我国社会主义市场经济发展、政府职能转变、农村富余劳动力转移、国际市场开拓等发挥了重要作用。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;公有制经济与非公有制经济相辅相成、相得益彰、取长补短、共同发展。可以激发社主义市场经济的活力,推动经济健康发展。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >18、如何建设现代市场体系？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(1)建立公平开放透明的市场规则。①完善公平竞争制度；②建立健全社会征信体系；③健全优胜劣汰市场化退出机制，从而实现市场准入畅通、市场开放有序、市场竞争充分、市场秩序规范。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(2)完善主要由市场决定价格的机制。凡是能由市场形成价格的都交给市场，政府不进行不当干预。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >19、社会主义市场经济体制的基本特征？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①坚持党的领导，发挥党总揽全局、协调各方的领导核心作用。 &nbsp;&nbsp;&nbsp;②把社会主义制度和市场经济有机结合起来，既能发挥市场经济的长处，又能发挥我国社会主义制度的显著优势。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③促进全体人民实现共同富裕是根本目标。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;科学的宏观调控，有效的政府治理是内在要求。能够把人民的当前利益与长远利益、局部利益与整体利益结合起来,全国一盘棋，集中力量办大事。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >20、我国政府的经济职能和作用？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①通过实施国家重大发展战略和中长期经济社会发展规划制度，实现经济社会发展目标。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②通过实施宏观经济政策，保持宏观经济稳定。 &nbsp;&nbsp;③通过实施产业政策，促进产业结构不断优化升级,增强国民经济竞争力。 &nbsp;&nbsp;&nbsp;&nbsp;&#9315;通过实施区域政策和环境政策，推动区域经济协调发展和可持续发展。 &nbsp;&nbsp;&nbsp;&#9316;通过市场监管、质量监管、安全监管，规范市场秩序，保障公平竞争，弥补市场缺陷。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9317;通过加强和优化公共服务，保障社会公平正义，促进共同富裕，更好满足人民日益增长的美好生活需要。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >21、新发展理念</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①创新发展注重解决发展动力问题。②协调发展注重解决发展不平衡问题。③绿色发展注重解决人与自然和谐共生问题。&#9315;开放发展注重解决发展内外联动问题。&#9316;共享发展注重解决社会公平正义问题。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >22、现代化经济体系的构成</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①创新引领、协同发展的产业体系 &nbsp;&nbsp;②统一开放、竞争有序的市场体系。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③体现效率、促进公平的收入分配体系 &#9315;彰显优势、协调联动的城乡区域发展体系。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9316;资源节约、环境友好的绿色发展体系 &#9317;多元平衡、安全高效的全面开放体系。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:华文楷体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="华文楷体" >&#9318;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >充分发挥市场作用、更好发挥政府作用的经济体制。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >23、如何通过建立现代化经济体系，推动经济高质量发展？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①建设创新引领、协同发展的产业体系。 &nbsp;&nbsp;&nbsp;②大力发展实体经济，深化供给侧结构性改革。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③建设彰显优势、协调联动的城乡区域发展体系。实施乡村振兴战略和实施区域协调发展战略。 &nbsp;&nbsp;&#9315;建设更高水平开放型经济新体制，推动开放朝着优化结构、拓展深度、提高效益方向转变。 &nbsp;&nbsp;&nbsp;&#9316;坚持社会主义基本经济制度，充分发挥市场在资源配置中的决定性作用，更好发挥政府作用，全面贯彻新发展理念，坚持以供给侧结构性改革为主线，加快建设现代化经济体系。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >24、如何完善个人收入分配？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①大力发展生产力。完善以按劳分配为主体，多种分配方式并存的分配制度。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②理顺国家、企业和个人的收入分配关系，健全体现效率、促进公平的收入分配制度。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③在经济增长的同时实现居民收入同步增长；劳动生产率提高的同时实现劳动报酬同步提高。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;在初次分配方面，要坚持多劳多得，着重保护劳动所得，增加劳动者特别是一线劳动者劳动报酬，提高劳动报酬在初次分配中的比重；要健全劳动、资本、土地、知识、技术、管理、数据等生产要素由市场评价贡献、按贡献决定报酬的机制。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9316;在再分配方面，要完善以税收、社会保障、转移支付等为主要手段的再分配调节机制，强化税收调节。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9317;重视发挥第三次分配作用，发展慈善等社会公益事业。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:华文楷体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="华文楷体" >&#9318;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >要规范收入分配秩序，鼓励勤劳致富，保护合法收入，增加低收入者收入，扩大中等收入群体，调节过高收入，清理规范隐性收入，取缔非法收入。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9319;坚持消除贫因。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >25、如何完善社会保障体系？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①要公平对待每个公民并确保其享受相应的社会保障权益。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②既要尽力而为，又要量力而行，要坚持社会保障水平与经济社会发展相适应。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③做到权责清晰，明确各方的权利与责任，严格依法监管。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;要坚持应保尽保原则，健全统筹城乡、可持续的基本养老保险制度、基本医疗保险制度，稳步提高保障水平。全面建成覆盖全民、城乡统筹、权责清晰、保障适度、可持续的多层次社会保障体系</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >26、如何践行社会责任，促进社会进步？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①弘扬劳模精神、劳动精神、工匠精神 ②激发和保护企业家精神</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③树立绿色生产和绿色消费观（做理智的消费者，践行正确的消费原则:量人为出，适度消费，避免盲从，理性消费；保护环境，绿色消费;勤俭节约，艰苦奋斗。）</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;实现乡村振兴和共同富裕</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >27、为什么没有共产党就没有新中国？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①中国共产党一经成立，就把实现共产主义作为党的最高理想和最终目标，义无反顾地肩负起实现中华民族伟大复兴的历史使命，对“为什么革命、怎样革命”的根本问题给出了正确的答案。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②中国共产党深刻认识到，实现中华民族伟大复兴，必须推翻压在中国人民头上的帝国主义、封建主义、官僚资本主义三座大山，实现民族独立、人民解放。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③中国共产党领导中国各族人民经过28年浴血奋战，终于推翻了三座大山，取得了新民主主义革命的伟大胜利，于1949年10月1日建立中华人民共和国，实现了中国从几千年封建专制政治向人民民主的伟大飞跃。从此，中国人民掌握了国家的权力，成为国家和自己命运的主人。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9315;没有共产党就没有新中国，是近代以来中国人斗争经验的历史总结，是中国人民在长期探索、艰苦奋斗的基础上共同确认的历史真理。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >28、为什么中国共产党领导中华民族的伟大复兴是历史的选择、是人民的选择、是正确的选择?</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①在中国共产党的领导下，中国人民完成新民主主义革命，建立新中国，没有共产党就没有新中国。 &nbsp;&nbsp;&nbsp;&nbsp;②在中国共产党的领导下，中国人民完成社会主义革命，确立社会主义制度。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③在中国共产党的领导下，中国人民开始改革开放，走向民富国强的中国特色社会主义道路。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;经过长期努力，中国特色社会主义进入新时代，中国共产党领导中国人民踏上决胜全面建成小康社会、基本实现社会主义现代化、全面建设社会主义现代化强国的新征程。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9316;实践充分证明，由中国共产党领导中华民族伟大复兴是历史的选择，是人民的选择，是正确的选择。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >29、中国共产党为什么能够始终走在时代前列？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①中国共产党之所以能够走在时代前列，保持党的先进性和纯洁性，就在于它以接续推进的马克思主义中国化创新理论作为行动指南。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②中国共产党之所以能够始终走在时代前列，就在于坚持解放思想、实事求是、与时俱进、求真务实。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③中国共产党之所以能够始终走在时代前列，就在于充分发挥共产党员的先锋模范作用。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >30、如何加强党的领导？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①中国共产党是执政党，是中国特色社会主义事业的领导核心。中国共产党是我国最高政治领导力量。办好中国的事情，关键在党。中国共产党领导是中国特色社会主义最本质的特征，是中国特色社会主义制度的最大优势。 &nbsp;&nbsp;&nbsp;&nbsp;②加强党的政治领导、组织领导、思想领导</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③要不断增强党的政治领导力、思想引领力、群众组织力、社会号召力，从而确保党永葆旺盛生命力和强大战斗力。 &nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;同时，自觉维护党中央权威和集中统一领导，确保党始终总揽全局、协调各方。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >31、如何从严治党？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①在新形势下，党面临的执政考验、改革开放考验、市场经济考验、外部环境考验是长期的、复杂的、严峻的，精神懈怠危险、能力不足危险、脱离群众危险、消极腐败危险更加尖锐地摆在全党面前。全面从严治党是推进党的建设新的伟大工程的必然要求。</font></span><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（为什么）</font></span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②加强党的建设，必须推动全面从严治党向纵深发展。 &nbsp;&nbsp;③治国必先治党，治党务必从严。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;全面从严治党是由党的地位和性质决定的。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9316;党的历史经验与教训要求我们必须从严治党。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9317;坚持和完善党的领导，保持和巩固党的执政地位，必须毫不动摇地把党建设得更加坚强有力。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >32、人民代表大会制度的优势？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①人民代表大会制度是中国共产党把马克思主义基本原理同中国具体实际相结合的伟大创造，具有鲜明的中国特色和突出的制度优势。 &nbsp;&nbsp;&nbsp;②人民代表大会制度保障了人民当家作主，动员了全体人民以国家主人翁的姿态投身于社会主义建设，保证了国家机关协调高效运转，维护了国家统一和民族团结。 &nbsp;&nbsp;&nbsp;③人民代表大会制度是坚持党的领导、人民当家作主、依法治国有机统一的根本政治制度安排，体现了中国特色社会主义的制度优势，必须长期坚持、不断完善。我们绝不照搬西方政治制度的模式。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >33、为什么某民族地方会取得如此大的成就？（如何促进某民族地方发展？）</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①中国共产党的领导为民族地方的发展提供了政治保证。 &nbsp;&nbsp;&nbsp;②我国的人民代表大会制度保证了人民当家作主，推动了民族地方的发展。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③坚持和完善民族区域自治制度，保障了地区少数民族人民当家作主的权利，为维护民族地方的和谐稳定提供了制度保障，调动了它们捍卫祖国统一，保卫边疆，建设家乡的积极性和创造性。 &nbsp;&nbsp;&nbsp;&#9315;在民族平等、民族团结和各民族共同繁荣的基本方针指导下，进一步巩固和发展了平等团结互助和谐的社会主义民族关系，推动民族地方大踏步走向繁荣复兴。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9316;全面贯彻党的宗教工作基本方针，实行宗教信仰自由政策、依法管理宗教事务、坚持独立自主自办的原则、积极引导宗教与社会主义社会相适应，团结信教群众和不信教群众共同致力于社会主义现代化事业建设。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >34、基层群众自治制度？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>1）意义：①基层群众自治制度是我国的一项基本政治制度。扩大基层民主是社会主义民主广泛而深刻的实践，应该将其作为发展社会主义民主的基础性工程加以推进。②发展基层民主，保障人民群众享有更多更切实民主权利，是我国社会主义民主政治建设的重要内容。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>2）发展基层民主的原因：①基层群众自治制度是我国的一项基本政治制度。②发展基层民主大大调动了广大居民或村民参与社区或农村建设的积极性，也有效提高了居民或村民参与政治生活的素质和能力。③发展基层民主，保障人民群众享有更多更切实的民主权利，是我国社会主义民主政治建设的重要内容。扩大基层民主是社会主义民主广泛而深刻的实践，是发展社会主义民主的基础性工程。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >35、全面依法治国的原则？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①坚持中国共产党的领导；②坚持人民主体地位；③坚持法律人人面前人人平等。&#9315;坚持依法治国和以德治国相结合；&#9316;坚持从中国实际出发。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >36、如何建设法治国家？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>1）措施：建设法治国家，既需要完备的法律体系，更需要法律的严格实施。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①推进宪法实施。依法治国首先要坚持依宪治国，依法执政首先要坚持依宪执政。②建立完备的法律体系。完备的法律体系是法治国家的制度前提。③完善法律实施机制。政府依法履行法定职责；社会公众自觉遵守法律；司法机关严格公正司法。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>2）意义：通过建设法治国家，能够有效规范权力运行，保障公民合法权益；能够推动实现国家治理现代化，实现长治久安。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >37、如何建设法治政府？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>1）措施：①就要把政府工作全面纳入法治轨道，让政府用法治思维和法治方式履行职责，确保行政权在法治框架内运行。②各级政府及其工作人员坚持有法必依、执法必严、违法必究，严格规范公正文明执法，规范执法自由裁量权，加大关系群众切身利益的重点领域执法力度。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>2）意义：通过建设法治政府，能够督促政府更好地行使权力，积极履行职责，提高行政服务水平，实现善政；通过建设法治政府，能够更好地促进政府和公民、社会组织的沟通，形成互信互助的新型关系。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >38、如何建设法治社会？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>1）措施：建设法治社会是一个艰巨的任务，需要进行全方位、长期性的努力。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①深入开展法治宣传教育，推动全社会树立法治意识。②提高社会治理法治化水平。③建设完备的法律服务体系。&#9315;健全社会矛盾纠纷预防化解机制。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>2）意义：通过建设法治社会，能够更好地形成全社会学法、信法、用法的氛围，增进社会共识，维护社会秩序；能够更好地协调各方利益关系，有效化解社会矛盾，实现社会和谐。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >39、全面依法治国的基本要求？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①领导中国共产党是我国的执政党，是中国特色社会主义的领导核心。全面推进依法治国，要发挥党的领导核心作用，党坚持依法执政。 &nbsp;&nbsp;&nbsp;&nbsp;②科学立法：全国人大是我国最高权力机关。全面推进依法治国，全国人大要依法行使权力，科学立法，加强监督。 &nbsp;&nbsp;&nbsp;③严格执法：严格执法政府是国家的行政机关。全面推进依法治国，政府要坚持依法行政，科学民主依法决策，自觉接受监督。积极推进法治政府建设。 &nbsp;&nbsp;&nbsp;&#9315;公正司法：人民法院和人民检察院是我国的司法机关。司法机关要坚持严格执法、公正司法。 &nbsp;&nbsp;&#9316;全民守法：公民要依法行使权利，自觉遵循宪法和法律。 &nbsp;&nbsp;&#9317;全面推进依法治国，必须坚持党的领导、人民当家作主、依法治国的有机统一。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >40、物质和意识的辩证关系</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >设问模式：请结合材料，运用物质和意识的辩证关系原理或意识能动作用原理分析</font>……原因(意义)或措施。答题模式：物质决定作用+意识能动作用(总体+认识世界+改造世界)+措施+意义。答题要素：</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(1)物质决定意识，要求一切从实际出发，实事求是。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(2)意识能动作用原理：①意识具有能动作用，正确的意识促进客观事物的发展；错误的意识阻碍客观事物的发展。要树立正确意识，克服错误意识，发挥正确意识(或科学理论)的促进作用。②人能够能动地认识世界。意识活动具有目的性、自觉选择性和能动创造性，能正确反映事物的本质和规律。③人能够能动地改造世界。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >41、尊重客观规律和发挥主观能动性的辩证关系</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >设问模式：请结合材料，运用尊重客观规律和发挥主观能动性的辩证关系分析</font>……原因(意义)或措施。答题模式：客观规律+主观能动性+结合+措施+意义。答题要素： &nbsp;</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①规律是客观的、普遍的，是不以人的意志为转移的，要求我们尊重客观规律，按客观规律办事。 &nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②要充分发挥主观能动性，在认识和把握规律的基础上，从实际出发，根据规律发生作用的条件和形式在运动变化中利用规律。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③把发挥主观能动性和尊重客观规律结合起来，把高度的革命热情同严谨踏实的科学态度结合起来。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >42、联系观</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >设问模式：请结合材料，运用唯物辩证法联系观的知识（或联系客观性原理或整体与部分关系原理）分析</font>......的原因（意义）或措施。答题模式：联系的普遍性+客观性+多样性+整体和部分的关系+措施+意义。答题要素：</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①联系具有普遍性，要求我们用联系的观点看问题。+材料 &nbsp;&nbsp;②联系具有客观性，要求我们从事物固有的联系中把握事物,切忌主观随意性；根据事物固有的联系，改变事物的状态，建立新的联系。+材料 &nbsp;&nbsp;&nbsp;③联系具有多样性，要求我们要一切以时间、地点、条件为转移。+材料 &nbsp;&nbsp;&nbsp;&#9315;整体和部分是辩证统一的关系，整体是由部分构成的,离开了部分，整体就不复存在。部分的功能及其变化会影响整体的功能。关键部分的功能及其变化甚至对整体的功能起决定作用。要求我们树立全局观念，重视局部的作用。+材料 &nbsp;&nbsp;&#9316;系统具有整体性、有序性和内部结构的优化趋向，要求我们掌握系统优化的方法，用综合的思维方式认识事物。+材料</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >43、发展观</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >设问模式：请结合材料，运用唯物辩证法发展观的知识（或量变和质变的辩证关系原理）分析</font>......的原因（意义）或措施。答题模式：发展的普遍性和实质+发展的状态+发展的趋势+其他观点+措施+意义。答题要素：</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①发展具有普遍性，要求我们用发展的观点去看问题。+材料 &nbsp;&nbsp;②发展的实质是事物的前进和上升，是新事物的产生和旧事物的灭亡。+材料</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③量变是质变的必要准备，质变是量变的必然结果（事物发展的状态）。要求我们重视量的积累；不失时机，促成质的飞跃；坚持适度原则。+材料 &nbsp;&nbsp;&nbsp;&nbsp;&#9315;事物发展的前途是光明的，道路是曲折的（事物发展的趋势）。要求我们要对未来充满信心，热情支持和悉心保护新事物，促使其成长、壮大，还要做好充分的思想准备，不断克服前进道路上的困难，勇敢地面对挫折与考验。+材料</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >44、矛盾观</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >设问模式：请结合材料，运用矛盾分析法的知识（或对立统一原理或矛盾基本属性或矛盾特殊性或矛盾普遍性和特殊性辩证关系）分析</font>......的原因（意义）或措施。</span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（一）、矛盾的对立统一原理</font>------事物发展的源泉和动力</span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>1）矛盾即对立统一。矛盾双方相互依存，并在一定条件下相互转化。（矛盾具有斗争性和同一性两种基本属性。同一以斗争和差别为前提，斗争性寓于同一性当中，矛盾是事物发展的动力和源泉，矛盾双方既对立又统一推动了事物的运动、变化和发展。）（2）要求我们必须用一分为二的观点</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（二）、矛盾的普遍性原理</font></span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（坚持唯物辩证法的前提）（</font>1）内容：矛盾具有普遍性 （2方法论：我们要敢于承认矛盾，直面矛盾，分析矛盾，解决矛盾</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（三）、矛盾的特殊性原理</font> </span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;<font face="宋体" >（</font>1）内容：矛盾的特殊性（2）方法论：矛盾的特殊性要求我们要做到具体问题具体分析。（在矛盾普遍性原理的指导下，具体分析矛盾的特殊性，并找出解决矛盾的正确方法。是马克思一个重要原则，是马克思主义活的灵魂。是正确认识事物的基础：是正确解决矛盾的关键）</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（四）、矛盾的普遍性和特殊性辩证关系原理</font></span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（矛盾问题的精髓）（</font>1）内容：矛盾的普遍性和特殊性相互联结。普遍性寓于特殊性之中，并通过特殊性表现出来，没有特殊性就没有普遍性。特殊性离不开普遍性 ，特殊性包含普遍性：矛盾的普遍性与特殊性在一定的条件下相互转化（2）方法论：要坚持特殊到普遍，再从普遍到特殊的认识顺序。要坚持矛盾普遍性与特殊性、共性和个性具体的历史的统一。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（五）、主要矛盾和次要矛盾辩证关系原理</font></span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>1）矛盾有主、次之分，主要矛盾在事物发展过程中处于支配地位、对事物发展起决定作用-。办事情既要善于抓住重点，集中力量解决主要矛盾；（2）主、次要矛盾相互依赖、相互影响，并在一定条件下相互转化。又要统筹兼顾，恰当地处理好次要矛盾。坚持两点论与重点论的统一。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（六）、矛盾的主要方面和次要方面辩证关系原理</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>1）矛盾的主要方面在每一个矛盾中处于支配地位、起主导作用，事物的性质主要是由主要矛盾的主要方面决定的；</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >矛盾的主、次要方面既相互排斥，又相互依赖，并在一定条件下相互转化。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（</font>2）看问题既要全面，又要分清主流和支流，要着重把握矛盾的主要方面。坚持两点论与重点论的统一。</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >（七）：坚持两点论和重点论的统一</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >45、运用认识论的知识分析问题</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >设问模式：如何运用认识论的知识分析问题的原因</font>(意义)或措施。答题模式：实践决定认识+认识的反作用+真理的特点+认识过程。答题要素：</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①实践决定认识。实践是认识的来源，实践是认识发展的动力，实践是检验认识的真理性的唯一标准，实践是认识的目的。</font></span><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②认识对实践具有反作用，正确的认识对人们的实践起促进作用，错误的认识对实践起阻碍作用。 &nbsp;&nbsp;③真理是客观的、具体的、有条件的。 &nbsp;&nbsp;&nbsp;&nbsp;&#9315;认识具有反复性、无限性和上升性，要求与时俱进、开拓创新，在实践中认识和发现真理、在实践中检验和发展真理。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >46、社会存在和社会意识的辩证关系</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >设问模式：运用社会存在和社会意识的辩证关系对材料进行分析。答题模式辩证关系</font>(从一般到个别决定作用+反作用+相对独立性)+分析材料。答题要素：</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①决定作用：社会存在决定社会意识，社会意识是社会存在的反映；社会存在的变化决定社会意识的变化+分析材料。</font></span><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②反作用：社会意识具有相对独立性，可以反作用于社会存在，落后的社会意识对社会发展起阻碍作用，先进的社会意识对社会发展起积极的推动作用。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >47、“关注民生”的理论依据</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >设问模式：结合材料说明人民群众是历史的创造者。答题模式：人民群众的历史地位</font>+价值观的导向作用+价值判断和价值选择的两个标准。答题要素：</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①历史地位(人民群众是历史的创造者，是社会历史的主体，要坚持群众观点和群众路线)+结合材料。②导向作用(先进的价值观具有促进作用)+结合材料。③作出正确的价值判断和价值选择的两个标准(遵循社会发展的客观规律、站在最广大人民的立场上)+结合材料。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >48、运用人生价值的知识分析问题</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >设问模式：如何运用人生价值的知识分析问题的原因</font>(意义)或措施。答题模式：人的价值+价值观+价值判断和价值选择+实现人生价值的途径。答题要素：</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(1)人的价值就在于创造价值，在于对社会的责任和贡献，我们应该积极为社会作贡献。</font></span><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(2)价值观对人的行为有重要的驱动、制约和导向作用，我们要树立正确的价值观。</font></span><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(3)正确的价值判断和价值选择应自觉站在最广大人民的根本立场上、遵循社会发展的客观规律。</font></span><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(4)实现人生价值的途径。①弘扬劳动精神，积极投身于为人民服务的实践。 &nbsp;&nbsp;②在个人与社会的统一中创造和实现价值。 &nbsp;&nbsp;③在砥砺自我中创造和实现价值。需要充分发挥主观能动性，需要顽强拼搏、自强不息的精神；需要努力增长自己的才干，全面提高个人素质；需要有坚定的理想信念，需要正确价值观的指引；需要锤炼品德修为，不断打牢道德根基。</font></span><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >49、文化有什么功能？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(1)文化具有引领风尚、教育人民、服务社会、推动发展的功能。文①化引导人们认识真善美，为人们提供精神指引，提升全民族的文明素养。②文化教化育人，帮助人们提高思想道德素质、科学文化素质和身心健康素质，促进人的全面发展。③文化服务社会，满足人们过上美好生活的新期待，为人们提供丰富的精神食粮。&#9315;文化推动发展，是国家繁荣振兴取之不尽、用之不竭的力量源泉，对提高社会文明程度具有重要作用。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(2)文化是民族的血脉和灵魂。文化兴国运兴，文化强民族强。当代中国，铸牢中华民族北同体意识，要以认同、传承和发展中华优秀文化为前提。没有高度的文化自信，没有文化的繁荣兴盛，就没有中华民族的伟大复兴。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >50、为什么要传承和弘扬中华优秀传统文化？（当代价值）</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①不忘本来才能开辟未来，善于继承才能更好创新。优秀传统文化是一个国家、一个民族传承和发展的根本。中华文化是中华民族共同的精神标识，涵养着中华民族共同的价值观。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②传承和弘扬中华优秀传统文化，能够激发民族自信心和自豪感，有助于促进民族团结，维护国家的安全和统一，铸牢中华民族的共同体意识。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③中华优秀传统文化中所蕴含的诸如革故鼎新、与时俱进的思想，脚踏实地、实事求是的思想，惠民利民、安民富民的思想，道法自然、天人合一的思想等，能够为解决当代中国和世界发展中的许多问题提供有益借鉴。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9315;中华优秀传统文化中强调求同存异、和而不同、和平发展，这些思想和理念有助于正确认识和处理国际关系，推动建立以合作共赢为核心的新型国际关系，构建人类命运共同体。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >51、在新时代，如何弘扬和培育民族精神？</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①、在新时代，弘扬和培育民族精神，必须培育和践行社会主义核心价值观。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②、要以培养担当民族复兴大任的时代新人为着眼点，强化教育引导、实践养成、制度保障。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③、发挥社会主义核心价值观的引领作用，实现中华民族伟大复兴的中国梦。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >52、正确对待外来文化 </font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(1)面向世界博采众长：文化发展必须保持开放的心态。我们要学习借鉴一切有利于我国社会主义文化建设的有益经验、一切有利于丰富我国人民文化生活的积极成果、一切有利于发展我国文化事业和文化产业的经营管理理念和运行机制，以发展中国特色社会主义文化。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >(2)立足国情交流互鉴：①外来文化的有益成果只有与中国具体国情相结合，才能发挥积极作用。②立足中国国情，实现不同文化的交流互鉴，应当坚持“洋为中用”，坚持以我为主，为我所用，坚守中华文化立场，吸收外来有益文化，推动当代中国文化发展。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="text-autospace:ideograph-numeric;mso-pagination:none;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);
+font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >52、文化发展的基本途径？</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);
+font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="layout-grid-mode:char;text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①坚定理想信念，坚持以人民为中心②立足时代之基，回答时代问题</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="layout-grid-mode:char;text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③融通不同资源，实现综合创新</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="layout-grid-mode:char;text-autospace:ideograph-numeric;mso-pagination:none;" ><b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >53、如何建设文化强国？</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="layout-grid-mode:char;text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①</font></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >建设文化强国，要弘扬主旋律，传播正能量。</font>②</span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >建设文化强国，要培育和践行社会主义核心价值观。</font></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >要提高人们的道德修养和科学文化修养</font></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >要推动文化事业和文化产业发展</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="layout-grid-mode:char;text-autospace:ideograph-numeric;mso-pagination:none;" ><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >54、如何发展中国特色社会主义文化</font></span></b><b style="mso-bidi-font-weight:normal" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+mso-ansi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="layout-grid-mode:char;text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >①必须坚持以马克思主义为指导，坚守中华文化立场，立足当代中国实际，发展面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化，推动社会主义精神文明和物质文明协调发展。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="layout-grid-mode:char;text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >②必须坚定文化自信，牢牢把握社会主义先进文化前进方向，围绕举旗帜、聚民心、育新人、兴文化、展形象的使命任务，坚持为人民服务、为社会主义服务，坚持百花齐放、百家争鸣，坚持创造性转化、创新性发展，不断铸就中华文化新辉煌。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="layout-grid-mode:char;text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >③必须坚持和完善繁荣社会主义先进文化的制度，坚持马克思主义在意识形态领域指导地位的根本制度，巩固全体人民团结奋斗的共同思想基础，激发全民族文化创造活力，更好构筑中国精神、中国价值、中国力量。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="layout-grid-mode:char;text-autospace:ideograph-numeric;mso-pagination:none;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Courier New';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >&#9315;必须加强党对文化工作的领导，牢牢掌握意识形态工作领导权，积极培育和践行社会主义核心价值观，加强全社会思想道德建设，繁荣发展社会主义文艺，推动文化事业和文化产业发展，为人民群众提供丰富的精神食粮。</font></span><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Courier New';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></div>
+<span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><br clear=all style='page-break-before:always;mso-break-type:section-break'></span>
+<div class="Section1" ><p class=MsoNormal ><img width="554"  height="896"  src="福建省2022年普通高中学业水平合格性考试政治复习问答题整理.files/福建省2022年普通高中学业水平合格性考试政治复习问答题整理14317.png" ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></div><!--EndFragment--></body></html>
